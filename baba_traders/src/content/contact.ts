@@ -18,7 +18,7 @@ export const contact: Contact = {
   },
 }
 
-export const phoneDisplay = '+91 98765 43210'
+export const phoneDisplay = '+91 9749380075'
 export const whatsappUrl = `https://wa.me/${contact.whatsapp.replace('+', '')}`
 export const phoneUrl = `tel:${contact.phone}`
 export const developerName = 'built with ❤️ by @NKDugar - 9079762748'
