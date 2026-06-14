@@ -1,8 +1,8 @@
 import { Contact } from '@/types/contact'
 
 export const contact: Contact = {
-  phone: '+9197493875',
-  whatsapp: '+9197493875',
+  phone: '+919749380075',
+  whatsapp: '+919749380075',
   address: {
     street: '41, BM Sarani Rd',
     ward: 'Ward 6',
